@@ -200,7 +200,11 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 
 // const func3 = (num1, num2) => num1 + num2;
 // console.log(func3(10, 20));
-//
+
+/**
+ * 変更
+ * 
+ */
 },{}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
